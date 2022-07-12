@@ -21,8 +21,7 @@ Hi there 👋 Adith here :bowtie:
 ⚡ Fun fact: i play cringe video games 
   </h4>
   <h4 align="center">
- 
-[![Instagram Badge](https://img.shields.io/badge/2_adith-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_adith)](www.instagram.com/2_adith)
+
     [![Instagram Badge](https://img.shields.io/badge/-2_adith-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_adith/)](https://www.instagram.com/2_adith/)
 
 
