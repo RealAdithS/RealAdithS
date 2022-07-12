@@ -12,5 +12,6 @@
 
 -->
 ### 🌱 I’m currently learning 
-### ⚡ Fun fact: vayne enjoyer
+### ⚡ Fun fact: i play games 
+
 
