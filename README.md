@@ -28,6 +28,12 @@ Hi there 👋 Adith here :bowtie:
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/dupityyy.svg?style=social&label=Follow%20%40dupityyy)](https://twitter.com/dupityyy)
  
    </h4>
+  <h4 align="center">
+    
+  ⚡ Fun fact: i play cringe video games 
+    ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=jankos&logoColor=white)
+  
+
 
 
 
