@@ -20,7 +20,6 @@ Hi there 👋 Adith here :bowtie:
 <h4 align="center">
 🌱 I’m currently learning !
  
-⚡ Fun fact: i play cringe video games 
   </h4>
   <h4 align="center">
 
