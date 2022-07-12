@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on - life
-- 🌱 I’m currently learning -AI
+###🌱 I’m currently learning 
 - 👯 I’m looking to collaborate- on anything
 
-- ⚡ Fun fact: ...idk
+### ⚡ Fun fact: vayne enjoyer
 -->
