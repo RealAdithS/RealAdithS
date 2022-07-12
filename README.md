@@ -31,7 +31,7 @@ Hi there 👋 Adith here :bowtie:
   <h4 align="center">
     
   ⚡ Fun fact: i play cringe video games 
-![Twitch](https://img.shields.io/badge/Jankos-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Twitch](https://img.shields.io/badge/twitch.tv/jankos-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
   
 
 
