@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on - life
-###🌱 I’m currently learning 
+- 🔭  I’m currently working on - life
+### 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate- on anything
 
-### ⚡ Fun fact: vayne enjoyer
+###  ⚡ Fun fact: vayne enjoyer
 -->
