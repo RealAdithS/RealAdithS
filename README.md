@@ -12,6 +12,6 @@
 
 -->
 ### 🌱 I’m currently learning 
-### ⚡ Fun fact: i play cringe viedo games 
+### ⚡ Fun fact: i play cringe video games 
 
 
