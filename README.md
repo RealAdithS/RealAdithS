@@ -3,7 +3,7 @@
 ![This is an image](https://c.tenor.com/5yUTM6OuaKcAAAAd/itachi-itachi-uchiha.gif)
 
 <h4 align="center">
- Knowledge and awareness are vague, and perhaps better called illusions.” – Itachi
+ "Knowledge and awareness are vague, and perhaps better called illusions.” – Itachi
  
   <h4 align="center">
 Hi there 👋 Adith here :bowtie:
