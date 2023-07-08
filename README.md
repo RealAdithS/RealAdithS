@@ -24,6 +24,8 @@ Hi there 👋 Adith here :bowtie:
 
 <img src="https://myreadme.vercel.app/api/embed/vaynefr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=vaynefr&theme=juicyfresh&no-bg=true" />
+
 [![Instagram Badge](https://img.shields.io/badge/-2_adith-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_adith/)](https://www.instagram.com/2_adith/)
 
 
