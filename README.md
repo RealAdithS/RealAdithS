@@ -2,22 +2,11 @@
  
 ![This is an image](https://c.tenor.com/5yUTM6OuaKcAAAAd/itachi-itachi-uchiha.gif)
  
-  <h4 align="center">
-Hi there 👋 Adith here :bowtie:
+  <h4 align>
+★	Hi there 👋 Adith here :bowtie:
 
-<!--
-**RealAdithS/RealAdithS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭  I’m currently working on - life
-
-- 👯 I’m looking to collaborate- on anything
-
-
--->
-<h4 align="center">
-🌱 I’m currently learning !
+<h4>
+★	I’m currently learning web development and app dev !!
  
   </h4>
   <h4 align="center">
@@ -32,11 +21,19 @@ Hi there 👋 Adith here :bowtie:
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/dupityyy.svg?style=social&label=Follow%20%40dupityyy)](https://twitter.com/dupityyy)
  
    </h4>
-  <h4 align="center">
+  <p>
     
-  ⚡ Fun fact: i play cringe video games 
-    
-![Twitch](https://img.shields.io/badge/twitch.tv/jankos-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+  ⚡ Fun fact: I play cringe video games 
+   </p> 
+
+
+<h3 >Skills</h3>
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,python,autocad,css,js" />
+  </a>
+</p>
   
 
 
