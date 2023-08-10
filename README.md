@@ -51,7 +51,7 @@
 <hr>
 
 <Br>
-<hr>
+
 <Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
