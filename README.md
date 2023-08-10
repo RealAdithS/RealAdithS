@@ -30,7 +30,7 @@
 </p>
 <hr>
 
-<h1 align="center"><A></A>Tech <a></a> <img src="https://cdn.7tv.app/emote/63c8cc0dfc866ebbc80b0bec/4x.webp" width="60px"/><</h1>
+<h1 align="center"><A></A>Tech <a></a> <img src="https://cdn.7tv.app/emote/63c8cc0dfc866ebbc80b0bec/4x.webp" width="60px"/></h1>
 <Br>
  
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
