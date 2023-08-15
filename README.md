@@ -60,6 +60,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaynefr&layout=compact&theme=merko)](https://github.com/Vaynefr/github-readme-stats)
 
 
+<h4 align="center">   
+ 
+![This is an image](https://cdn.7tv.app/emote/644f93cceead17d9f7d42471/4x.webp)
+</h4>
+
   
 
 
